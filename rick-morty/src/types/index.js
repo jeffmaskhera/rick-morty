@@ -1,0 +1,1 @@
+export const SET_CHARACTER_LIST = 'SET_CHARACTER_LIST';
